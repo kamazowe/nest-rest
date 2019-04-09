@@ -3,7 +3,7 @@ import { ItemsService } from './items.service';
 import { Item } from './interfaces/item';
 import { ItemDto } from './dto/itemDto';
 
-@Controller('items')
+@Controller('api/items')
 export class ItemsController {
 
   constructor(private readonly itemService: ItemsService) {

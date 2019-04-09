@@ -1,3 +1,12 @@
-/node_modules
-/dist
+# server
+/server/node_modules
+/server/dist
+
+# public
+/public/node_modules
+/public/dist
+/public/tmp
+/public/out-tsc
+
+# other
 /.idea
