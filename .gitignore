@@ -6,7 +6,7 @@
 /public/node_modules
 /public/dist
 /public/tmp
-/pulibc/out-tsc
+/public/out-tsc
 
 # other
 /.idea
